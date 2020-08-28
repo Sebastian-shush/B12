@@ -1,17 +1,5 @@
-h1 {
-  text-align: center;
-  font-size: 2em;
-  color: #009;
-  margin-bottom: .3em;
-  text-decoration: underline;
-}
-h2 {
-  text-align: left;
-  font-size: 1em;
-  color: #009;
-  margin-bottom: .3em;
-  text-decoration: italic;
-}
+
+/*Top Navigation bar
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -38,4 +26,17 @@ h2 {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+h2 {
+  text-align: left;
+  font-size: 1em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: italic;
 }
