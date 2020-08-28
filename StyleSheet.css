@@ -1,7 +1,14 @@
 h1 {
   text-align: center;
-  font-size: 1em;
+  font-size: 2em;
   color: #009;
   margin-bottom: .3em;
   text-decoration: underline;
+}
+h2 {
+  text-align: left;
+  font-size: 1em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: italic;
 }
